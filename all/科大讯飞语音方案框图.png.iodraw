@@ -42,13 +42,13 @@
         <mxCell id="WzQq7WzkGFzAcEqbfzVn-12" value="2.本地命令配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="WzQq7WzkGFzAcEqbfzVn-5" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hIox-3B1qilaJuPJE69F-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WzQq7WzkGFzAcEqbfzVn-5" source="WzQq7WzkGFzAcEqbfzVn-6" target="WzQq7WzkGFzAcEqbfzVn-9">
+        <mxCell id="hIox-3B1qilaJuPJE69F-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WzQq7WzkGFzAcEqbfzVn-5" source="WzQq7WzkGFzAcEqbfzVn-6" target="WzQq7WzkGFzAcEqbfzVn-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="240" as="sourcePoint" />
             <mxPoint x="120" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hIox-3B1qilaJuPJE69F-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WzQq7WzkGFzAcEqbfzVn-5" source="WzQq7WzkGFzAcEqbfzVn-6" target="WzQq7WzkGFzAcEqbfzVn-10">
+        <mxCell id="hIox-3B1qilaJuPJE69F-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WzQq7WzkGFzAcEqbfzVn-5" source="WzQq7WzkGFzAcEqbfzVn-6" target="WzQq7WzkGFzAcEqbfzVn-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="240" as="sourcePoint" />
             <mxPoint x="120" y="190" as="targetPoint" />
@@ -108,7 +108,7 @@
         <mxCell id="WzQq7WzkGFzAcEqbfzVn-28" value="讯飞通用命令格式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="338" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hIox-3B1qilaJuPJE69F-4" value="TPV与讯飞商务合作确定后，讯飞发布SDK供TPV开发，TPV开发过程中与讯飞进行技术对接。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="hIox-3B1qilaJuPJE69F-4" value="TPV与讯飞商务合作确定后，讯飞发布SDK供TPV开发，TPV开发过程中与讯飞进行技术对接。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="478" width="690" height="30" as="geometry" />
         </mxCell>
       </root>
