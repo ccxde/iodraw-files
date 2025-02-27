@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-3" value="语义命令处理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.本机控制&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.其他···&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
-          <mxGeometry x="40" y="100" width="120" height="120" as="geometry" />
+          <mxGeometry x="40" y="120" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alexa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;server&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="720" y="222.5" width="140" height="120" as="geometry" />
