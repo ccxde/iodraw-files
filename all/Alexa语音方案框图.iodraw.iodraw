@@ -13,7 +13,7 @@
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-3" value="语义命令处理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.本机控制&lt;/div&gt;&lt;div&gt;2.IOT命令&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-4" value="&lt;div&gt;腾讯云小微&lt;/div&gt;server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alexa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;server&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="160" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-5" value="互问SDK" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-25" value="语义解析结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="420" width="100" height="30" as="geometry" />
+          <mxGeometry x="640" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-26" value="腾讯其他应用" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="200" height="160" as="geometry" />
