@@ -85,7 +85,7 @@
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-25" value="语义解析结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-26" value="其他应用" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-26" value="Other APPs" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="342.5" width="200" height="235" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-27" value="Youtube、Netflix ..." style="whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-26" vertex="1">
