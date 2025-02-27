@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-1" value="TPV" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="200" height="280" as="geometry" />
+          <mxGeometry x="40" y="80" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-2" value="远场麦克风输入" style="rounded=0;whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
