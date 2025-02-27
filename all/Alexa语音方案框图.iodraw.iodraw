@@ -10,7 +10,7 @@
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-2" value="远场麦克风输入" style="rounded=0;whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-3" value="语义命令处理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.本机控制&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.其他&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-3" value="语义命令处理&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.本机控制&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.其他···&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="mJzIWaDtZZ5t52QUUsHs-1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Alexa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;server&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
