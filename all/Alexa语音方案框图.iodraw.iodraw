@@ -73,16 +73,6 @@
             <mxPoint x="50" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mJzIWaDtZZ5t52QUUsHs-7" target="mJzIWaDtZZ5t52QUUsHs-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="340" as="sourcePoint" />
-            <mxPoint x="450" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="240" />
-              <mxPoint x="300" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-20" value="识别文字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="288" width="70" height="30" as="geometry" />
         </mxCell>
