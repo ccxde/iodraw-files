@@ -106,7 +106,7 @@
         <mxCell id="DAEOXk7mM-ZHCsEj5JUV-7" value="Weather ···" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mJzIWaDtZZ5t52QUUsHs-26">
           <mxGeometry x="40" y="182" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-31" value="TPV处理的命令格式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-31" value="本机控制等命令对接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-32" value="音视频等命令对接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
