@@ -70,13 +70,10 @@
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-14" value="识别文字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-21" value="&lt;div&gt;腾讯极光语音&lt;/div&gt;server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="760" y="350" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="mJzIWaDtZZ5t52QUUsHs-16" target="mJzIWaDtZZ5t52QUUsHs-21" edge="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="mJzIWaDtZZ5t52QUUsHs-16" target="mJzIWaDtZZ5t52QUUsHs-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
-            <mxPoint x="450" y="290" as="targetPoint" />
+            <mxPoint x="769.8" y="398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-23" value="文字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
