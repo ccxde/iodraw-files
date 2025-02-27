@@ -61,14 +61,11 @@
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-12" value="音频" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="625" y="180" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;exitX=0.114;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;exitX=0.114;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="mJzIWaDtZZ5t52QUUsHs-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="742.98" y="245.60000000000002" as="sourcePoint" />
             <mxPoint x="557.02" y="230" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-14" value="识别文字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="612.02" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="mJzIWaDtZZ5t52QUUsHs-16" target="mJzIWaDtZZ5t52QUUsHs-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -105,6 +102,15 @@
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-33" value="1.TPV与腾讯云小微商务合作确定后，腾讯云小微拉动互问及腾讯其他部门（如极光语音等）确定语音方案。&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2.互问发布SDK供TPV开发，TPV开发过程中和互问进行技术对接。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="100" y="640" width="740" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEOXk7mM-ZHCsEj5JUV-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;exitX=0.114;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="mJzIWaDtZZ5t52QUUsHs-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742.98" y="245.60000000000002" as="sourcePoint" />
+            <mxPoint x="557.02" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-14" value="识别文字" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="605" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
