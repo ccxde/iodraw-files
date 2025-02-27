@@ -95,13 +95,16 @@
           <mxGeometry x="640" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-26" value="其他应用" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="40" y="380" width="200" height="230" as="geometry" />
+          <mxGeometry x="40" y="380" width="200" height="235" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-27" value="Youtube、Netflix ..." style="whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-26" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-28" value="&lt;h3 style=&quot;margin-top: var(--cos-space-3xs); margin-right: 0px; margin-bottom: var(--cos-space-3xs); margin-left: 0px; padding: 0px; list-style: none; line-height: 30px; font-size: var(--cos-text-headline-sm); font-weight: var(--cos-font-regular); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: var(--cos-text-headline-sm); font-weight: var(--cos-font-regular);&quot;&gt;Amazon Music&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;margin-top: var(--cos-space-3xs); margin-right: 0px; margin-bottom: var(--cos-space-3xs); margin-left: 0px; padding: 0px; list-style: none; line-height: 30px; font-size: var(--cos-text-headline-sm); font-weight: var(--cos-font-regular); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-size: var(--cos-text-headline-sm); font-weight: var(--cos-font-regular);&quot;&gt;Spotify ...&lt;/span&gt;&lt;span style=&quot;font-size: var(--cos-text-headline-sm); font-weight: var(--cos-font-regular);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-26" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEOXk7mM-ZHCsEj5JUV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mJzIWaDtZZ5t52QUUsHs-26">
+          <mxGeometry x="40" y="182" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-31" value="TPV处理的命令格式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="130" height="30" as="geometry" />
@@ -111,9 +114,6 @@
         </mxCell>
         <mxCell id="mJzIWaDtZZ5t52QUUsHs-33" value="1.TPV与腾讯云小微商务合作确定后，腾讯云小微拉动互问及腾讯其他部门（如极光语音等）确定语音方案。&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2.互问发布SDK供TPV开发，TPV开发过程中和互问进行技术对接。&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="100" y="640" width="740" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DAEOXk7mM-ZHCsEj5JUV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
