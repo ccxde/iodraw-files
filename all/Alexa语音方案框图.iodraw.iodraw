@@ -31,7 +31,7 @@
             <mxPoint x="50" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJzIWaDtZZ5t52QUUsHs-16" value="4.在线语义解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-5" vertex="1">
+        <mxCell id="mJzIWaDtZZ5t52QUUsHs-16" value="4.在线语义解析NLU" style="rounded=0;whiteSpace=wrap;html=1;" parent="mJzIWaDtZZ5t52QUUsHs-5" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DAEOXk7mM-ZHCsEj5JUV-2" value="5.在线语义解析NLU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mJzIWaDtZZ5t52QUUsHs-5">
