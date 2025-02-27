@@ -124,6 +124,9 @@
             <mxPoint x="560" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DAEOXk7mM-ZHCsEj5JUV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0.276;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mJzIWaDtZZ5t52QUUsHs-4" target="mJzIWaDtZZ5t52QUUsHs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
