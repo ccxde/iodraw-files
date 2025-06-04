@@ -22,13 +22,13 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-6" value="Harmony 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="364" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="160" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-11" value="Android 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="214" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-12" value="投屏指引" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-12" value="投屏指引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="174" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-13" value="DLNA投屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
