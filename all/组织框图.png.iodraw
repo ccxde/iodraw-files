@@ -22,7 +22,7 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-5" value="Ios/Mac os 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-6" value="Harmony&amp;nbsp; 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-6" value="Harmony 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
