@@ -55,10 +55,10 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-19" value="查看投屏指引" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="168" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cjA-gNR0l0iYVNpbrc6h-0">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="470" y="280" as="targetPoint" />
+            <mxPoint x="280" y="295" as="sourcePoint" />
+            <mxPoint x="470" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-21" value="投屏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
