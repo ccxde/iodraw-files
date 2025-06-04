@@ -7,7 +7,7 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-0" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;用户" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="120" width="160" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-1" value="TV/PD" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;TV/PD&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="120" width="280" height="320" as="geometry" />
         </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-3" value="Android 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
