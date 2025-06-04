@@ -46,6 +46,9 @@
         <mxCell id="ZYqsc4gRe1L8_cj-FSN4-16" value="Miracast&lt;div&gt;平台实现&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="240" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ZYqsc4gRe1L8_cj-FSN4-17" value="状态/常见问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
