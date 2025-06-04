@@ -28,19 +28,19 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-11" value="Android 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="214" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-12" value="投屏指引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-12" value="投屏指引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="174" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-13" value="DLNA投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-13" value="DLNA投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="230" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-14" value="Cast+投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-14" value="Cast+投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="231" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-15" value="AirPlay投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-15" value="AirPlay投屏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-16" value="Miracast投屏" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;fontColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cjA-gNR0l0iYVNpbrc6h-16" value="Miracast投屏" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="291" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-17" value="Miracast投屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
