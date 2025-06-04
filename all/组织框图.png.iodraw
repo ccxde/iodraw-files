@@ -25,11 +25,8 @@
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-6" value="Harmony 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cjA-gNR0l0iYVNpbrc6h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cjA-gNR0l0iYVNpbrc6h-7" target="cjA-gNR0l0iYVNpbrc6h-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cjA-gNR0l0iYVNpbrc6h-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="180" width="120" height="180" as="geometry" />
+          <mxGeometry x="520" y="180" width="130" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
