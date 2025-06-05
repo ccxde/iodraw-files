@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="SBKCYML80V47ksHTGU8C-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="220" width="460" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-0" value="UPnP Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="521" width="400" height="40" as="geometry" />
         </mxCell>
@@ -98,9 +101,6 @@
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="161" y="440" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="SBKCYML80V47ksHTGU8C-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="220" width="460" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
