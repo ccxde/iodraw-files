@@ -67,7 +67,7 @@
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-17" value="audio state/notice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SBKCYML80V47ksHTGU8C-16">
           <mxGeometry x="0.4625" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SBKCYML80V47ksHTGU8C-3">
