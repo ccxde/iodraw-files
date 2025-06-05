@@ -25,6 +25,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="检查网络状态&lt;div&gt;网络连接界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oIfpsKCSa_LFu_oy8VQu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oIfpsKCSa_LFu_oy8VQu-4" target="oIfpsKCSa_LFu_oy8VQu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oIfpsKCSa_LFu_oy8VQu-4" value="用户退出智享投屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
