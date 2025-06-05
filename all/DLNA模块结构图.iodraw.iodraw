@@ -5,16 +5,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SBKCYML80V47ksHTGU8C-0" value="UPnP Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="480" width="400" height="40" as="geometry" />
+          <mxGeometry x="80" y="521" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-1" value="JNI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="400" width="400" height="40" as="geometry" />
+          <mxGeometry x="80" y="441" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-2" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="361" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-3" value="DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="280" y="361" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-4" value="Media Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
