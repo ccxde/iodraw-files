@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-3" value="DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-4" value="Media Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
@@ -65,6 +65,12 @@
         <mxCell id="SBKCYML80V47ksHTGU8C-17" value="audio state/notice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SBKCYML80V47ksHTGU8C-16">
           <mxGeometry x="0.4625" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SBKCYML80V47ksHTGU8C-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
