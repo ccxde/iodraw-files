@@ -16,10 +16,10 @@
         <mxCell id="SBKCYML80V47ksHTGU8C-1" value="JNI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="440" width="400" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SBKCYML80V47ksHTGU8C-2" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SBKCYML80V47ksHTGU8C-2" value="DMC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="361" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SBKCYML80V47ksHTGU8C-3" value="DMR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SBKCYML80V47ksHTGU8C-3" value="DMR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="361" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBKCYML80V47ksHTGU8C-4" value="Media Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
