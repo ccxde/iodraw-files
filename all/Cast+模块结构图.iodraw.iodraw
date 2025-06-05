@@ -13,7 +13,7 @@
         <mxCell id="X1HvqFe_0fslUwaEeqsg-6" value="CastPlusPlayActivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1HvqFe_0fslUwaEeqsg-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="X1HvqFe_0fslUwaEeqsg-7" value="&lt;div style=&quot;background-color:#2b2b2b;color:#a9b7c6&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 16px;&quot;&gt;CastPlusAllowedPushActivity&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
