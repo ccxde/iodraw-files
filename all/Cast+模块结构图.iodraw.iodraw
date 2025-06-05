@@ -31,6 +31,11 @@
             <mxPoint x="530" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X1HvqFe_0fslUwaEeqsg-15" value="Event/DisplayEvent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X1HvqFe_0fslUwaEeqsg-13">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
