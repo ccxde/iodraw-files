@@ -22,11 +22,20 @@
         <mxCell id="2S5L4IYpapmQTGzLcUe6-2" value="Network/Power&lt;div&gt;状态获取及监听&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2S5L4IYpapmQTGzLcUe6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2S5L4IYpapmQTGzLcUe6-3" target="2S5L4IYpapmQTGzLcUe6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2S5L4IYpapmQTGzLcUe6-3" value="Network/Power&lt;div&gt;事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2S5L4IYpapmQTGzLcUe6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2S5L4IYpapmQTGzLcUe6-4" target="2S5L4IYpapmQTGzLcUe6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2S5L4IYpapmQTGzLcUe6-4" value="DMR&lt;div&gt;广播/事件响应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S5L4IYpapmQTGzLcUe6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2S5L4IYpapmQTGzLcUe6-5" target="2S5L4IYpapmQTGzLcUe6-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2S5L4IYpapmQTGzLcUe6-5" value="外部DLNA&lt;div&gt;搜索/播放事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
