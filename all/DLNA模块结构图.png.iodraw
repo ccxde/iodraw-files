@@ -10,8 +10,8 @@
         <mxCell id="2S5L4IYpapmQTGzLcUe6-1" value="Start/Stop DMR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2S5L4IYpapmQTGzLcUe6-2" value="Start/Stop DMR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="2S5L4IYpapmQTGzLcUe6-2" value="Network/Power&lt;div&gt;状态及监听&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
