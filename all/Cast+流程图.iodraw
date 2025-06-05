@@ -31,7 +31,7 @@
         <mxCell id="liuL9hKKAAApdT4deqHe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-9" target="liuL9hKKAAApdT4deqHe-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-9" value="DMR&lt;div&gt;广播/事件响应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-9" value="SDK Cast+&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="liuL9hKKAAApdT4deqHe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-11" target="liuL9hKKAAApdT4deqHe-9">
