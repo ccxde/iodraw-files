@@ -64,6 +64,11 @@
             <mxPoint x="599.9999999999999" y="240.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X1HvqFe_0fslUwaEeqsg-21" value="user input event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X1HvqFe_0fslUwaEeqsg-20">
+          <mxGeometry x="-0.1072" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
