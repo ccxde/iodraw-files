@@ -22,8 +22,8 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1HvqFe_0fslUwaEeqsg-12" value="initCastPlus/setCapability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="265" y="318" width="160" height="30" as="geometry" />
+        <mxCell id="X1HvqFe_0fslUwaEeqsg-12" value="initCastPlus/setCapability/Play···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="318" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X1HvqFe_0fslUwaEeqsg-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X1HvqFe_0fslUwaEeqsg-2" target="X1HvqFe_0fslUwaEeqsg-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
