@@ -25,8 +25,8 @@
         <mxCell id="SBKCYML80V47ksHTGU8C-6" value="Android Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SBKCYML80V47ksHTGU8C-7" value="Android Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="SBKCYML80V47ksHTGU8C-7" value="Android Power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
