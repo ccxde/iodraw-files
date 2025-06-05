@@ -17,7 +17,7 @@
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2S5L4IYpapmQTGzLcUe6-4" value="DMR 设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
