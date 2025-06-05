@@ -37,7 +37,7 @@
         <mxCell id="liuL9hKKAAApdT4deqHe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-11" target="liuL9hKKAAApdT4deqHe-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-11" value="外部DLNA&lt;div&gt;搜索/播放事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-11" value="外部Cast+&lt;div&gt;搜索/播放事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="liuL9hKKAAApdT4deqHe-12" value="Media Player" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
