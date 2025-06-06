@@ -7,7 +7,7 @@
         <mxCell id="vyRpqdFjgkRBbhGINJwE-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="100" width="460" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="vyRpqdFjgkRBbhGINJwE-1" value="UPnP Stack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vyRpqdFjgkRBbhGINJwE-1" value="AirPlay Stack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="401" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vyRpqdFjgkRBbhGINJwE-3" target="vyRpqdFjgkRBbhGINJwE-1">
