@@ -22,8 +22,8 @@
         <mxCell id="NI2qrGRuGJz-MU7hm1SH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NI2qrGRuGJz-MU7hm1SH-2" target="NI2qrGRuGJz-MU7hm1SH-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NI2qrGRuGJz-MU7hm1SH-2" value="1.设置deviceName&lt;div&gt;发送启动广播&lt;/div&gt;&lt;div&gt;2.直接跳转TV Miracast&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="NI2qrGRuGJz-MU7hm1SH-2" value="1.设置deviceName&lt;div&gt;发送启动广播&lt;/div&gt;&lt;div&gt;或者2.直接跳转TV Miracast&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="380" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NI2qrGRuGJz-MU7hm1SH-3" value="TV Miracast&lt;div&gt;设备运行&lt;/div&gt;&lt;div&gt;事件响应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
