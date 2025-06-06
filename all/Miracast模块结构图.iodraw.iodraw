@@ -13,6 +13,12 @@
         <mxCell id="eJsBm76Z-U57Si78ytXZ-2" value="TV Miracast Impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eJsBm76Z-U57Si78ytXZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eJsBm76Z-U57Si78ytXZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
