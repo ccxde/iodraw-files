@@ -13,7 +13,7 @@
         <mxCell id="YrdweAO-nh8Xr6qkF3nF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-3" target="YrdweAO-nh8Xr6qkF3nF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YrdweAO-nh8Xr6qkF3nF-3" value="SDK Cast+&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-3" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;AirPlay Stack&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="231" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YrdweAO-nh8Xr6qkF3nF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-5" target="YrdweAO-nh8Xr6qkF3nF-3">
