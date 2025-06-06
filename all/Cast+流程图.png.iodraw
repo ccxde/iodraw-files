@@ -4,43 +4,43 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="liuL9hKKAAApdT4deqHe-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-1" target="liuL9hKKAAApdT4deqHe-5">
+        <mxCell id="liuL9hKKAAApdT4deqHe-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-1" target="liuL9hKKAAApdT4deqHe-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-1" value="启动CastPlusService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-1" value="启动CastPlusService" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-3" target="liuL9hKKAAApdT4deqHe-9">
+        <mxCell id="liuL9hKKAAApdT4deqHe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-3" target="liuL9hKKAAApdT4deqHe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-3" value="SDK初始化&lt;div&gt;注册回调&lt;/div&gt;&lt;div&gt;投屏设置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-3" value="SDK初始化&lt;div&gt;注册回调&lt;/div&gt;&lt;div&gt;投屏设置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-5" target="liuL9hKKAAApdT4deqHe-3">
+        <mxCell id="liuL9hKKAAApdT4deqHe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-5" target="liuL9hKKAAApdT4deqHe-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-5" value="Network/Power&lt;div&gt;状态获取及监听&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-5" value="Network/Power&lt;div&gt;状态获取及监听&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-7" target="liuL9hKKAAApdT4deqHe-5">
+        <mxCell id="liuL9hKKAAApdT4deqHe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-7" target="liuL9hKKAAApdT4deqHe-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-7" value="Network/Power&lt;div&gt;事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-7" value="Network/Power&lt;div&gt;事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-9" target="liuL9hKKAAApdT4deqHe-12">
+        <mxCell id="liuL9hKKAAApdT4deqHe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-9" target="liuL9hKKAAApdT4deqHe-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-9" value="SDK Cast+&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-9" value="SDK Cast+&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-11" target="liuL9hKKAAApdT4deqHe-9">
+        <mxCell id="liuL9hKKAAApdT4deqHe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="liuL9hKKAAApdT4deqHe-11" target="liuL9hKKAAApdT4deqHe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-11" value="外部Cast+&lt;div&gt;搜索/播放事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-11" value="外部Cast+&lt;div&gt;搜索/连接事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="liuL9hKKAAApdT4deqHe-12" value="PIN码/信任对话&lt;div&gt;投屏显示&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="liuL9hKKAAApdT4deqHe-12" value="PIN码/信任对话&lt;div&gt;投屏显示&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
