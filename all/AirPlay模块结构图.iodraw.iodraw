@@ -20,7 +20,7 @@
           <mxGeometry x="100" y="241" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-5" value="RaopServer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="241" width="180" height="40" as="geometry" />
+          <mxGeometry x="310" y="241" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-6" value="Media Player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="130" width="120" height="40" as="geometry" />
