@@ -13,7 +13,10 @@
         <mxCell id="NI2qrGRuGJz-MU7hm1SH-2" value="设置deviceName&lt;div&gt;发送启动广播&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NI2qrGRuGJz-MU7hm1SH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NI2qrGRuGJz-MU7hm1SH-3" value="TV Miracast" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NI2qrGRuGJz-MU7hm1SH-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
