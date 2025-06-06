@@ -23,7 +23,7 @@
           <mxGeometry x="300" y="241" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-6" value="Media Player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vyRpqdFjgkRBbhGINJwE-8" target="vyRpqdFjgkRBbhGINJwE-4">
           <mxGeometry relative="1" as="geometry" />
@@ -41,11 +41,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="200" as="sourcePoint" />
             <mxPoint x="460" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vyRpqdFjgkRBbhGINJwE-11" value="&lt;div&gt;play state&lt;/div&gt;setUrl/play/seek/stop··action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vyRpqdFjgkRBbhGINJwE-10">
-          <mxGeometry x="0.0634" y="4" relative="1" as="geometry">
-            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vyRpqdFjgkRBbhGINJwE-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vyRpqdFjgkRBbhGINJwE-5" target="vyRpqdFjgkRBbhGINJwE-3">
