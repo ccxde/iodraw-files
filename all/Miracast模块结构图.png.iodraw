@@ -31,8 +31,11 @@
         <mxCell id="NI2qrGRuGJz-MU7hm1SH-4" value="投屏指引做相应调整" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NI2qrGRuGJz-MU7hm1SH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NI2qrGRuGJz-MU7hm1SH-9" target="NI2qrGRuGJz-MU7hm1SH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NI2qrGRuGJz-MU7hm1SH-9" value="外部Miracast&lt;div&gt;搜索/连接事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
