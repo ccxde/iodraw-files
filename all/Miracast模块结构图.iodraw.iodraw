@@ -10,6 +10,11 @@
         <mxCell id="eJsBm76Z-U57Si78ytXZ-1" value="MiracastSdkImpl" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eJsBm76Z-U57Si78ytXZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eJsBm76Z-U57Si78ytXZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eJsBm76Z-U57Si78ytXZ-2" value="TV Miracast Impl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -19,7 +24,7 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJsBm76Z-U57Si78ytXZ-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eJsBm76Z-U57Si78ytXZ-3">
+        <mxCell id="eJsBm76Z-U57Si78ytXZ-4" value="start/stop/state API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eJsBm76Z-U57Si78ytXZ-3">
           <mxGeometry x="-0.104" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
