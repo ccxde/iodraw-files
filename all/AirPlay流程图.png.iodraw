@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-1" target="YrdweAO-nh8Xr6qkF3nF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-1" value="启动AirPlayServer，注册服务&lt;div&gt;启动RaopServer，注册服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="121" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-3" target="YrdweAO-nh8Xr6qkF3nF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-3" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;AirPlay Stack&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;设备运行&lt;br&gt;&lt;div&gt;事件响应&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="231" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-5" target="YrdweAO-nh8Xr6qkF3nF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-5" value="外部AirPlay&lt;div&gt;搜索/连接事件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="231" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-6" value="信任对话&lt;div&gt;投屏显示&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="341" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YrdweAO-nh8Xr6qkF3nF-7" target="YrdweAO-nh8Xr6qkF3nF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrdweAO-nh8Xr6qkF3nF-7" value="启动AirPlayManageService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
